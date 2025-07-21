@@ -1,4 +1,4 @@
-import "./StyleToDO.css";
+import "./StyleToDo.css";
 import Trash from "../../assets/lixeira.png";
 
 function ToDO() {

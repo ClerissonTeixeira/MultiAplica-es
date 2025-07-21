@@ -8,7 +8,7 @@
 body {
   min-height: 100vh;
   width: 100vw;
-  background: linear-gradient(180deg, #363467 0%, rgba(30,29,79,0.8) 100%);
+  background: linear-gradient(180deg, #f90 0%, rgba(79, 52, 29, 0.8) 100%);
   display: flex;
   justify-content: flex-start; /* inicia a partir da esquerda */
   align-items: center; /* alinha verticalmente */
@@ -33,7 +33,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  background-color: #363467;
+  background-color: #868686;
 }
 
 .ToDo {
@@ -43,7 +43,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  background-color: #363467;
+  background-color: #868686;
 }
 
 /* Responsividade */
